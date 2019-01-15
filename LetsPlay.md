@@ -6,6 +6,10 @@ A group of game designers review one game playing it all together. The game revi
 2) Grow the knowledges of participants in game design research
 3) Have a chance to meet more game designers.
 
+# What is not
+
+In order to understand well the goal of the session, I would like to explain you what it is not. The session is not a meeting to get feedback and opinion about a game. It is a meetup where professionals analyze a game, without comments. It is useful for everyone to learn and improve the ability of play a game like a professional and not like a simple gamer.
+
 
 # Profiles
 The activity requires people to cover specific roles, in order to run correctly. Those are the profiles involved into the activity:
@@ -14,6 +18,7 @@ The activity requires people to cover specific roles, in order to run correctly.
 - GD: game designer member of Barcelona Game Design Meetup
 - Moderator: moderator of the whole section
 - Player(s): play the game to analyze live.
+- Audience: people which are not game designers will simply observe the session. At the end, they will be allowed to make comments and ask questions.
 - (OPTIONAL) Community Manager: the bridge with online people (if any).
 
 # Step 1 - Game Review
@@ -37,3 +42,6 @@ This is the final step, and also the longest one. The game is fully dissected, f
 
 Everything is placed into the Trello board, and it will be publicly shared with everyone before of the Let's Play Session.
 [See an example of Trello board here](https://trello.com/b/8al4EVFW/lets-play-game-analysis-board)
+
+# Step 4 - Audience comments
+In this step, people from the audience will be allowed to make comments and questions about the game or the whole session. Duration: 30 mins.
