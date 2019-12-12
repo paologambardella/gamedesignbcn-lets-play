@@ -60,19 +60,19 @@ El resultado final será una hoja de reglas que incluye las siguiente secciones:
 Si el __tablero__ tiene elementos especiales, vendrá dibujado en una __hoja A4 separada__
 
 ## Preguntas y Respuestas ##
-__¿Es necesario saber de diseño de juegos?__
-No es necesario algún conocimiento previo, Paolo se dedicará a facilitar la sesión entera.
-__¿Qué tipo de game jam es?__
-Es una game jam donde, por grupos de máximo 3 personas, se creará en 1 hora un juego de mesa en forma de __hojas de reglas__
-__¿Qué pasa con las hojas de reglas, tablero y feedback al final?__
-Paolo se encarga de sacar fotos a todo y serán publicadas en la página del Barcelona Game Design Meetup.
-__¿Dónde y cuando se tendrá?__
-Es necesario estar presentes el dia 13 de Diciembre 2019 a las 19:00 al Canódrom, Parc de Recerca Creativa de Barcelona. Carrer Concepción Arenal 165, 08027.
-__¿Qué necesito traer?__
-Lo único que se necesita es tu presencia y ganas de aprender. Existe un dresscode: __vestir algo navideño__.
-__¿Puedo entrar si no pongo nada Navideño?__
-Puedes, obviamente. El dresscode es facultativo.
-__¿Puedo invitar a otras personas al evento?__
-Si conoces a otras personas que podrían estar interesadas es mejor les avises cuanto antes. Es posible pagar la cuota de ingreso simbólica de 1 euro al momento.
-__¿Por qué hay una cuota de ingreso?__
-Hemos visto que el compromiso sube al poner un precio simbólico de 1 euro al ingreso. Antes se apuntaban 60 personas a los eventos y venían en 5. Con este sistema se apuntan 8-10 y vienen 15-20. Los ingresos se usan para materiales, refrescos y patatuelas.
+__¿Es necesario saber de diseño de juegos?__  
+No es necesario algún conocimiento previo, Paolo se dedicará a facilitar la sesión entera.  
+__¿Qué tipo de game jam es?__  
+Es una game jam donde, por grupos de máximo 3 personas, se creará en 1 hora un juego de mesa en forma de __hojas de reglas__  
+__¿Qué pasa con las hojas de reglas, tablero y feedback al final?__  
+Paolo se encarga de sacar fotos a todo y serán publicadas en la página del Barcelona Game Design Meetup.  
+__¿Dónde y cuando se tendrá?__  
+Es necesario estar presentes el dia 13 de Diciembre 2019 a las 19:00 al Canódrom, Parc de Recerca Creativa de Barcelona. Carrer Concepción Arenal 165, 08027.  
+__¿Qué necesito traer?__  
+Lo único que se necesita es tu presencia y ganas de aprender. Existe un dresscode: __vestir algo navideño__.  
+__¿Puedo entrar si no pongo nada Navideño?__  
+Puedes, obviamente. El dresscode es facultativo.  
+__¿Puedo invitar a otras personas al evento?__  
+Si conoces a otras personas que podrían estar interesadas es mejor les avises cuanto antes. Es posible pagar la cuota de ingreso simbólica de 1 euro al momento.  
+__¿Por qué hay una cuota de ingreso?__  
+Hemos visto que el compromiso sube al poner un precio simbólico de 1 euro al ingreso. Antes se apuntaban 60 personas a los eventos y venían en 5. Con este sistema se apuntan 8-10 y vienen 15-20. Los ingresos se usan para materiales, refrescos y patatuelas.  
