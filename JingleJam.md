@@ -40,8 +40,6 @@ El brainstorming rápido sirve para decidir qué tipo de juego se va a hacer par
 
 ## Playtest ##
 El playtest está enfocado a la mecánica principal o novedad principal del juego. Es posible que no se tenga tiempo de jugar una partida entera, a no ser que el juego tenga una duración parecida a un "piedra, papel y tijeras". Es algo informal y rápido, para poder averiguar si la novedad funciona y transmitir vuestra visión central (mecánica core o novedad) al resto de los participantes de la jam. El objetivo central es divertirse y el secundario es aprender, no se viene a demostrar nuestra habilidad creativa.
-
-## Playtest ##
 Para cada juego se sortea un otro equipo al que se le "regalará" virtualmente el sobre con reglas y tablero. 
 * Cada equipo jugará a un juego de otro equipo
 * Para cada equipo una persona será encargada de explicar el juego al otro equipo de playtest
